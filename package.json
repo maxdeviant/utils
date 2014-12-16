@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maxdeviant/utils/issues"
   },
-  "homepage": "https://github.com/maxdeviant/utils"
+  "homepage": "https://github.com/maxdeviant/utils",
+  "dependencies": {
+    "yargs": "^1.3.3"
+  }
 }
